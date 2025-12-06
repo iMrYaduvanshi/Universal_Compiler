@@ -22,25 +22,6 @@ Currently supported:
 
 ✔ Config-based compiler rules
 
-## 📂 Project Structure
-Universal-Compiler/
-│
-├── gui.py
-├── builder.py
-├── detector.py
-├── loader.py
-├── universal_compiler.spec
-│
-├── config/
-│   └── compilers.json
-├── assets/
-│   ├── icon.ico
-│   └── splash.png
-├── dist/               # generated executables/jars (ignored in git)
-├── build/              # temporary PyInstaller files (ignored)
-├── LICENSE
-└── .gitignore
-
 ## 🏗 Running in Development
 
 ### Install dependencies:
